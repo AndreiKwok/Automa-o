@@ -12,7 +12,6 @@ import toolbox as tool
 
 
 data_atual = datetime.now()
-
 data_atual_formatada = data_atual.strftime('%d/%m/20%y')
 data_Hoje = data_atual.strftime('%d%m20%y')
 data_inicio = (data_atual - timedelta(days=10)).strftime("%d/%m/%Y")
