@@ -4,6 +4,7 @@
 #se for sexta replicar filas para o sabado e o domingo 
 #as filas criadas são consumidas como o usuario preferir.
 #Há comparações do (usd-1 e usd-2) referente ao dia anterior ou 2 dias anteriores...
+
 import requests
 from datetime import datetime, timedelta
 import time
@@ -14,13 +15,9 @@ data_atual = datetime.now()
 
 data_atual_formatada = data_atual.strftime('%d/%m/20%y')
 data_Hoje = data_atual.strftime('%d%m20%y')
-
 data_inicio = (data_atual - timedelta(days=10)).strftime("%d/%m/%Y")
-data_inicio = '09/01/2024'
 data_fim = data_atual_formatada
-data_fim = '19/01/2024'
 data_JSON = data_atual.strftime('%d.%m.20%y')
-data_JSON = '19/01/2024'
 Data_sabado = (data_atual + timedelta(days=1)).strftime('%d.%m.20%y')
 Data_domingo = (data_atual + timedelta(days=2)).strftime('%d.%m.20%y')
 
@@ -48,7 +45,6 @@ Moeda_EURt2 = 'BRL'
 
 Moeda_EUR1 = 'EUR-1'
 Moeda_EURUSD = 'EUR'
-#teste para o git
 
 Moeda_GBP = 'GBP'
 Moeda_GBPt2 = 'BRL'
