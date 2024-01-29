@@ -1,2 +1,2 @@
 #TESTE_1
-#Curso git & GITHUB 
+#Curso de git & GITHUB 

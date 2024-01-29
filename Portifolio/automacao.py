@@ -48,6 +48,7 @@ Moeda_EURt2 = 'BRL'
 
 Moeda_EUR1 = 'EUR-1'
 Moeda_EURUSD = 'EUR'
+#teste para o git
 
 Moeda_GBP = 'GBP'
 Moeda_GBPt2 = 'BRL'
