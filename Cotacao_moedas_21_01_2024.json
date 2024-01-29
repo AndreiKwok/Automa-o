@@ -1,0 +1,442 @@
+{
+    "Moeda": "USD",
+    "ValorHoje": "4.9223",
+    "ValorOntem": "4.9403",
+    "Data": "19/01/2024",
+    "TipoMoeda": "USD",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "USD",
+    "ValorHoje": "4.9223",
+    "ValorOntem": "4.9403",
+    "Data": "20/01/2024",
+    "TipoMoeda": "USD",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "USD",
+    "ValorHoje": "4.9223",
+    "ValorOntem": "4.9403",
+    "Data": "21/01/2024",
+    "TipoMoeda": "USD",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "USD-1",
+    "ValorHoje": "0.99636",
+    "ValorOntem": "1.00116",
+    "Data": "19/01/2024",
+    "TipoMoeda": "USD-1",
+    "TipoMoeda2": "USD"
+}{
+    "Moeda": "USD-1",
+    "ValorHoje": "0.99636",
+    "ValorOntem": "1.00116",
+    "Data": "20/01/2024",
+    "TipoMoeda": "USD-1",
+    "TipoMoeda2": "USD"
+}{
+    "Moeda": "USD-1",
+    "ValorHoje": "0.99636",
+    "ValorOntem": "1.00116",
+    "Data": "21/01/2024",
+    "TipoMoeda": "USD-1",
+    "TipoMoeda2": "USD"
+}{
+    "Moeda": "USD-1",
+    "ValorHoje": "4.9403",
+    "ValorOntem": "4.9346",
+    "Data": "19/01/2024",
+    "TipoMoeda": "USD-1",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "USD-1",
+    "ValorHoje": "4.9403",
+    "ValorOntem": "4.9346",
+    "Data": "20/01/2024",
+    "TipoMoeda": "USD-1",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "USD-1",
+    "ValorHoje": "4.9403",
+    "ValorOntem": "4.9346",
+    "Data": "21/01/2024",
+    "TipoMoeda": "USD-1",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "USD-2",
+    "ValorHoje": "4.9346",
+    "ValorOntem": "4.8765",
+    "Data": "19/01/2024",
+    "TipoMoeda": "USD-2",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "USD-2",
+    "ValorHoje": "4.9346",
+    "ValorOntem": "4.8765",
+    "Data": "20/01/2024",
+    "TipoMoeda": "USD-2",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "USD-2",
+    "ValorHoje": "4.9346",
+    "ValorOntem": "4.8765",
+    "Data": "21/01/2024",
+    "TipoMoeda": "USD-2",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "EUR",
+    "ValorHoje": "5.3569",
+    "ValorOntem": "5.3622",
+    "Data": "19/01/2024",
+    "TipoMoeda": "EUR",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "EUR",
+    "ValorHoje": "5.3569",
+    "ValorOntem": "5.3622",
+    "Data": "20/01/2024",
+    "TipoMoeda": "EUR",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "EUR",
+    "ValorHoje": "5.3569",
+    "ValorOntem": "5.3622",
+    "Data": "21/01/2024",
+    "TipoMoeda": "EUR",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "EUR-1",
+    "ValorHoje": "5.3622",
+    "ValorOntem": "5.3545",
+    "Data": "19/01/2024",
+    "TipoMoeda": "EUR-1",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "EUR-1",
+    "ValorHoje": "5.3622",
+    "ValorOntem": "5.3545",
+    "Data": "20/01/2024",
+    "TipoMoeda": "EUR-1",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "EUR-1",
+    "ValorHoje": "5.3622",
+    "ValorOntem": "5.3545",
+    "Data": "21/01/2024",
+    "TipoMoeda": "EUR-1",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "EUR",
+    "ValorHoje": "1.08829",
+    "ValorOntem": "1.08540",
+    "Data": "19/01/2024",
+    "TipoMoeda": "EUR",
+    "TipoMoeda2": "USD"
+}{
+    "Moeda": "EUR",
+    "ValorHoje": "1.08829",
+    "ValorOntem": "1.08540",
+    "Data": "20/01/2024",
+    "TipoMoeda": "EUR",
+    "TipoMoeda2": "USD"
+}{
+    "Moeda": "EUR",
+    "ValorHoje": "1.08829",
+    "ValorOntem": "1.08540",
+    "Data": "21/01/2024",
+    "TipoMoeda": "EUR",
+    "TipoMoeda2": "USD"
+}{
+    "Moeda": "GBP",
+    "ValorHoje": "6.2425",
+    "ValorOntem": "6.2613",
+    "Data": "19/01/2024",
+    "TipoMoeda": "GBP",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "GBP",
+    "ValorHoje": "6.2425",
+    "ValorOntem": "6.2613",
+    "Data": "20/01/2024",
+    "TipoMoeda": "GBP",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "GBP",
+    "ValorHoje": "6.2425",
+    "ValorOntem": "6.2613",
+    "Data": "21/01/2024",
+    "TipoMoeda": "GBP",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "GBP",
+    "ValorHoje": "1.26821",
+    "ValorOntem": "1.26739",
+    "Data": "19/01/2024",
+    "TipoMoeda": "GBP",
+    "TipoMoeda2": "USD"
+}{
+    "Moeda": "GBP",
+    "ValorHoje": "1.26821",
+    "ValorOntem": "1.26739",
+    "Data": "20/01/2024",
+    "TipoMoeda": "GBP",
+    "TipoMoeda2": "USD"
+}{
+    "Moeda": "GBP",
+    "ValorHoje": "1.26821",
+    "ValorOntem": "1.26739",
+    "Data": "21/01/2024",
+    "TipoMoeda": "GBP",
+    "TipoMoeda2": "USD"
+}{
+    "Moeda": "CHF",
+    "ValorHoje": "5.6650",
+    "ValorOntem": "5.6863",
+    "Data": "19/01/2024",
+    "TipoMoeda": "CHF",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "CHF",
+    "ValorHoje": "5.6650",
+    "ValorOntem": "5.6863",
+    "Data": "20/01/2024",
+    "TipoMoeda": "CHF",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "CHF",
+    "ValorHoje": "5.6650",
+    "ValorOntem": "5.6863",
+    "Data": "21/01/2024",
+    "TipoMoeda": "CHF",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "CHF",
+    "ValorHoje": "1.15088",
+    "ValorOntem": "1.15100",
+    "Data": "19/01/2024",
+    "TipoMoeda": "CHF",
+    "TipoMoeda2": "USD"
+}{
+    "Moeda": "CHF",
+    "ValorHoje": "1.15088",
+    "ValorOntem": "1.15100",
+    "Data": "20/01/2024",
+    "TipoMoeda": "CHF",
+    "TipoMoeda2": "USD"
+}{
+    "Moeda": "CHF",
+    "ValorHoje": "1.15088",
+    "ValorOntem": "1.15100",
+    "Data": "21/01/2024",
+    "TipoMoeda": "CHF",
+    "TipoMoeda2": "USD"
+}{
+    "Moeda": "CAD",
+    "ValorHoje": "3.6559",
+    "ValorOntem": "3.6562",
+    "Data": "19/01/2024",
+    "TipoMoeda": "CAD",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "CAD",
+    "ValorHoje": "3.6559",
+    "ValorOntem": "3.6562",
+    "Data": "20/01/2024",
+    "TipoMoeda": "CAD",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "CAD",
+    "ValorHoje": "3.6559",
+    "ValorOntem": "3.6562",
+    "Data": "21/01/2024",
+    "TipoMoeda": "CAD",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "CAD",
+    "ValorHoje": "0.74272",
+    "ValorOntem": "0.74008",
+    "Data": "19/01/2024",
+    "TipoMoeda": "CAD",
+    "TipoMoeda2": "USD"
+}{
+    "Moeda": "CAD",
+    "ValorHoje": "0.74272",
+    "ValorOntem": "0.74008",
+    "Data": "20/01/2024",
+    "TipoMoeda": "CAD",
+    "TipoMoeda2": "USD"
+}{
+    "Moeda": "CAD",
+    "ValorHoje": "0.74272",
+    "ValorOntem": "0.74008",
+    "Data": "21/01/2024",
+    "TipoMoeda": "CAD",
+    "TipoMoeda2": "USD"
+}{
+    "Moeda": "NOK",
+    "ValorHoje": "0.4683",
+    "ValorOntem": "0.4689",
+    "Data": "19/01/2024",
+    "TipoMoeda": "NOK",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "NOK",
+    "ValorHoje": "0.4683",
+    "ValorOntem": "0.4689",
+    "Data": "20/01/2024",
+    "TipoMoeda": "NOK",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "NOK",
+    "ValorHoje": "0.4683",
+    "ValorOntem": "0.4689",
+    "Data": "21/01/2024",
+    "TipoMoeda": "NOK",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "NOK",
+    "ValorHoje": "0.09514",
+    "ValorOntem": "0.09491",
+    "Data": "19/01/2024",
+    "TipoMoeda": "NOK",
+    "TipoMoeda2": "USD"
+}{
+    "Moeda": "NOK",
+    "ValorHoje": "0.09514",
+    "ValorOntem": "0.09491",
+    "Data": "20/01/2024",
+    "TipoMoeda": "NOK",
+    "TipoMoeda2": "USD"
+}{
+    "Moeda": "NOK",
+    "ValorHoje": "0.09514",
+    "ValorOntem": "0.09491",
+    "Data": "21/01/2024",
+    "TipoMoeda": "NOK",
+    "TipoMoeda2": "USD"
+}{
+    "Moeda": "CLP",
+    "ValorHoje": "0.00540",
+    "ValorOntem": "0.005369",
+    "Data": "19/01/2024",
+    "TipoMoeda": "CLP",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "CLP",
+    "ValorHoje": "0.00540",
+    "ValorOntem": "0.005369",
+    "Data": "20/01/2024",
+    "TipoMoeda": "CLP",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "CLP",
+    "ValorHoje": "0.00540",
+    "ValorOntem": "0.005369",
+    "Data": "21/01/2024",
+    "TipoMoeda": "CLP",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "CLP",
+    "ValorHoje": "0.00110",
+    "ValorOntem": "0.00109",
+    "Data": "19/01/2024",
+    "TipoMoeda": "CLP",
+    "TipoMoeda2": "USD"
+}{
+    "Moeda": "CLP",
+    "ValorHoje": "0.00110",
+    "ValorOntem": "0.00109",
+    "Data": "20/01/2024",
+    "TipoMoeda": "CLP",
+    "TipoMoeda2": "USD"
+}{
+    "Moeda": "CLP",
+    "ValorHoje": "0.00110",
+    "ValorOntem": "0.00109",
+    "Data": "21/01/2024",
+    "TipoMoeda": "CLP",
+    "TipoMoeda2": "USD"
+}{
+    "Moeda": "MXN",
+    "ValorHoje": "0.2875",
+    "ValorOntem": "0.2874",
+    "Data": "19/01/2024",
+    "TipoMoeda": "MXN",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "MXN",
+    "ValorHoje": "0.2875",
+    "ValorOntem": "0.2874",
+    "Data": "20/01/2024",
+    "TipoMoeda": "MXN",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "MXN",
+    "ValorHoje": "0.2875",
+    "ValorOntem": "0.2874",
+    "Data": "21/01/2024",
+    "TipoMoeda": "MXN",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "MXN",
+    "ValorHoje": "0.05841",
+    "ValorOntem": "0.05817",
+    "Data": "19/01/2024",
+    "TipoMoeda": "MXN",
+    "TipoMoeda2": "USD"
+}{
+    "Moeda": "MXN",
+    "ValorHoje": "0.05841",
+    "ValorOntem": "0.05817",
+    "Data": "20/01/2024",
+    "TipoMoeda": "MXN",
+    "TipoMoeda2": "USD"
+}{
+    "Moeda": "MXN",
+    "ValorHoje": "0.05841",
+    "ValorOntem": "0.05817",
+    "Data": "21/01/2024",
+    "TipoMoeda": "MXN",
+    "TipoMoeda2": "USD"
+}{
+    "Moeda": "COP",
+    "ValorHoje": "0.00125",
+    "ValorOntem": "0.001258",
+    "Data": "19/01/2024",
+    "TipoMoeda": "COP",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "COP",
+    "ValorHoje": "0.00125",
+    "ValorOntem": "0.001258",
+    "Data": "20/01/2024",
+    "TipoMoeda": "COP",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "COP",
+    "ValorHoje": "0.00125",
+    "ValorOntem": "0.001258",
+    "Data": "21/01/2024",
+    "TipoMoeda": "COP",
+    "TipoMoeda2": "BRL"
+}{
+    "Moeda": "COP",
+    "ValorHoje": "0.00026",
+    "ValorOntem": "0.00025",
+    "Data": "19/01/2024",
+    "TipoMoeda": "COP",
+    "TipoMoeda2": "USD"
+}{
+    "Moeda": "COP",
+    "ValorHoje": "0.00026",
+    "ValorOntem": "0.00025",
+    "Data": "20/01/2024",
+    "TipoMoeda": "COP",
+    "TipoMoeda2": "USD"
+}{
+    "Moeda": "COP",
+    "ValorHoje": "0.00026",
+    "ValorOntem": "0.00025",
+    "Data": "21/01/2024",
+    "TipoMoeda": "COP",
+    "TipoMoeda2": "USD"
+}
